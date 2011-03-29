@@ -1,0 +1,10 @@
+*~
+.*~
+*project
+*.log
+bin/
+.settings
+bin/pollock-deep.apk
+*.class
+gen/
+.metadata/
